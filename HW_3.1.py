@@ -11,16 +11,6 @@
 #Приклади:
 
 #Було => стало
-
-
-
-
-
-
-
-
-
-
 def split_list(lst):
     middle = len(lst) // 2
     first_list = lst[:middle]
