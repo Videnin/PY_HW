@@ -17,4 +17,3 @@ for lst in examples:
     print(modified_list)
 
 
-
