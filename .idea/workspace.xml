@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ecc05c5-3232-4435-a523-85dd0220e0bf" name="Changes" comment="Added print with text" />
+    <list default="true" id="7ecc05c5-3232-4435-a523-85dd0220e0bf" name="Changes" comment="Added print with text">
+      <change afterPath="$PROJECT_DIR$/HW_10.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_10.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_10.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_11.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_11.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_9.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,76 +49,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.HW_2.1.executor": "Run",
-    "Python.HW_2.executor": "Run",
-    "Python.HW_3.1.executor": "Run",
-    "Python.HW_3.2.executor": "Run",
-    "Python.HW_3.executor": "Run",
-    "Python.HW_4.0.executor": "Run",
-    "Python.HW_4.1.executor": "Run",
-    "Python.HW_4.2.executor": "Run",
-    "Python.HW_5.1.executor": "Run",
-    "Python.HW_5.2.executor": "Run",
-    "Python.HW_5.executor": "Run",
-    "Python.HW_6.1.executor": "Run",
-    "Python.HW_6.2.executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.HW_2.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW_3.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW_3.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW_4.0.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW_4.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW_4.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW_5.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW_5.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW_6.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW_6.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW_6.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW_7.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\user\PycharmProjects\pythonProject4" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.HW_6.2">
-    <configuration name="HW_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject4" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW_5.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="HW_5.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject4" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW_5.1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.HW_7.1">
     <configuration name="HW_5.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject4" />
       <option name="ENV_FILES" value="" />
@@ -168,7 +134,51 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.venv/HW_6.2.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\user\PycharmProjects\pythonProject4\HW_6.2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HW_6.3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject4" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW_6.3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HW_7.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject4" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW_7.1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -201,11 +211,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.HW_7.1" />
+        <item itemvalue="Python.HW_6.3" />
         <item itemvalue="Python.HW_6.2" />
         <item itemvalue="Python.HW_6.1" />
         <item itemvalue="Python.HW_5.2" />
-        <item itemvalue="Python.HW_5.1" />
-        <item itemvalue="Python.HW_5" />
       </list>
     </recent_temporary>
   </component>
@@ -385,7 +395,39 @@
       <option name="project" value="LOCAL" />
       <updated>1716445575074</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Added print with text">
+      <option name="closed" value="true" />
+      <created>1716445635957</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1716445635957</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Added print with text">
+      <option name="closed" value="true" />
+      <created>1716445865591</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1716445865591</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Added print with text">
+      <option name="closed" value="true" />
+      <created>1716878077664</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1716878077664</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Added print with text">
+      <option name="closed" value="true" />
+      <created>1717323834998</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1717323834998</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
